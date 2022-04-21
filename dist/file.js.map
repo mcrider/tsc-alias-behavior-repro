@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/file.ts"],
+  "sourcesContent": ["import { folder2 } from './folder2/index.js';\n\nexport const folder2exp = folder2 + ' expt';\nexport default 42\n"],
+  "mappings": "AAAA;AAEO,aAAM,aAAa,UAAU;AACpC,eAAe;",
+  "names": []
+}

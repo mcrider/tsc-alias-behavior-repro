@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/folder2/index.ts"],
+  "sourcesContent": ["import { folder1 } from '../folder1/index.js';\n\nexport const folder2 = 'folder2 & ' + folder1;\n"],
+  "mappings": "AAAA;AAEO,aAAM,UAAU,eAAe;",
+  "names": []
+}

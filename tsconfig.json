@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "outDir": "dist",
+    "baseUrl": "src", // this must be specified if "paths" is specified.
+    "paths": {
+      "aoba/*": ["folder1/*"]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/folder1/index.ts"],
+  "sourcesContent": ["export const folder1 = 'folder1';\n"],
+  "mappings": "AAAO,aAAM,UAAU;",
+  "names": []
+}

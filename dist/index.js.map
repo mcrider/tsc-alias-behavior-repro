@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.ts"],
+  "sourcesContent": ["import value, {folder2exp} from './file.js'\nimport { lol } from './folder1/test.js'\n\nlet test = 'abc'\n// test = value\nconst test2 = value\nconst test3 = folder2exp\n\n// console.log('test', test);\n// console.log('test2', test2);\n// console.log('test3', test3);\n// console.log('test4', lol);\nconsole.log('test >', test, test2, test3, lol);\n"],
+  "mappings": "AAAA;AACA;AAEA,IAAI,OAAO;AAEX,MAAM,QAAQ;AACd,MAAM,QAAQ;AAMd,QAAQ,IAAI,UAAU,MAAM,OAAO,OAAO,GAAG;",
+  "names": []
+}
